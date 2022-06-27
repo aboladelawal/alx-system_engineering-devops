@@ -1,1 +1,1 @@
-This is a repo for shell basics
+Thisis a README file for this project
